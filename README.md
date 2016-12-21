@@ -31,7 +31,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
     - [Forms](#forms)
     - [Game Development](#game-development)
     - [Generation & Generics](#generation--generics)
-    - [Go Compilers](#go-compilers)
+    - [Go Compilers]#go-compilers)
     - [Goroutines](#goroutines)
     - [GUI](#gui)
     - [Hardware](#hardware)
@@ -828,6 +828,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [lego](https://github.com/xenolf/lego) - Pure Go ACME client library and CLI tool (for use with Let's Encrypt)
 * [passlib](https://github.com/hlandau/passlib) - Futureproof password hashing library.
 * [simple-scrypt](https://github.com/elithrar/simple-scrypt) - an scrypt package with a simple, obvious API and automatic cost calibration built-in.
+- [themis](https://github.com/cossacklabs/themis) - crypto library for painless data security, providing symmetric and asymmetric encryption, secure sockets with forward secrecy, for mobile and server platforms.
 
 ## Serialization
 
